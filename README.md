@@ -1,3 +1,3 @@
 # Corona-Virus-Live-Dashboard
-This dashboard shows the top 5 countries by active cases and total deaths, active cases, total recovered, serious cases country wise.
+This dashboard shows the total deaths, active cases, total recovered cases and serious cases country wise and top 5 countries by active cases .
 The data source is the Worldometer for corona virus.
